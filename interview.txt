@@ -1,0 +1,50 @@
+componnet,state,props,life cycle,useEffect,let,var,const,spread operator,arrow func.
+
+
+1) what are the differences between functional and class components?
+   explain == and === ?
+
+2) use of typeof?
+
+3) Explain Null and Undefined in JavaScript?
+
+4) what are built-In-types that are available in javascript?
+
+5) what are template literals?
+
+6) Can web browsers read JSX directly?
+
+7) What is JSX? 
+
+8) How do you create a react app?
+
+9) How do you update the state of a component?
+
+10) How do you pass props between components?
+
+11) state and props difference?
+
+12) What is React Router?
+
+13) How is React routing different from conventional routing?
+
+14) How to render more than one html elements in render method?
+
+15) How are forms created in React?
+
+16) Is js synchronus or asynchronus ?
+
+17) differences between synchronus and asynchronus?
+
+18) How can you create a component in React?
+
+19)  Explain Destructuring in ES6.
+
+20) What will be the final value of obj in the following case?
+
+    const obj = { foo: 2 }
+
+    obj.bar = 1
+
+21) What does onChange event do in react?
+
